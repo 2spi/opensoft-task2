@@ -3,10 +3,10 @@
 Fork this repository and complete the following tasks:
 
 
-### Subtask1
+### Subtask1 - (done)
 - Create a simple flask app that renders atleast 2 HTML pages through 2 views in the views.py file. You may take help from the code used in last tutorial: (https://github.com/saumyakraj/tutorial3) (Have a look at the extra.txt file for some common commands)
 
-### Subtask2
+### Subtask2 - (p-done)
 - Setup PostgreSQL and create a table in a database, and experiment with different datatypes to be inserted and test it by inserting into it and then fetching back the data. (See extra.txt in the above repo link for an example)
 
 
