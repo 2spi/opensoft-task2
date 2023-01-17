@@ -11,7 +11,7 @@ Created a flask app and rendered two HTML files index.html and about.html using 
 
 ### Subtask2 - (p-done)
 - Setup PostgreSQL and create a table in a database, and experiment with different datatypes to be inserted and test it by inserting into it and then fetching back the data. (See extra.txt in the above repo link for an example)
-
+Installed and configured postgres, tried out the commands in tutorial3  extra.txt
 
 ### Subtask3 (optional)
 - Create a model and corresponding views to fetch(GET) and insert(POST) into the table. 
